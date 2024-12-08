@@ -1,0 +1,14 @@
+D:\Aman Personal\InterviewPractice\GenericRepositoryLibrary\GenericRepositoryLibrary\bin\Release\net8.0\GenericRepositoryLibrary.deps.json
+D:\Aman Personal\InterviewPractice\GenericRepositoryLibrary\GenericRepositoryLibrary\bin\Release\net8.0\GenericRepositoryLibrary.runtimeconfig.json
+D:\Aman Personal\InterviewPractice\GenericRepositoryLibrary\GenericRepositoryLibrary\bin\Release\net8.0\GenericRepositoryLibrary.dll
+D:\Aman Personal\InterviewPractice\GenericRepositoryLibrary\GenericRepositoryLibrary\bin\Release\net8.0\GenericRepositoryLibrary.pdb
+D:\Aman Personal\InterviewPractice\GenericRepositoryLibrary\GenericRepositoryLibrary\obj\Release\net8.0\GenericRepositoryLibrary.csproj.AssemblyReference.cache
+D:\Aman Personal\InterviewPractice\GenericRepositoryLibrary\GenericRepositoryLibrary\obj\Release\net8.0\GenericRepositoryLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aman Personal\InterviewPractice\GenericRepositoryLibrary\GenericRepositoryLibrary\obj\Release\net8.0\GenericRepositoryLibrary.AssemblyInfoInputs.cache
+D:\Aman Personal\InterviewPractice\GenericRepositoryLibrary\GenericRepositoryLibrary\obj\Release\net8.0\GenericRepositoryLibrary.AssemblyInfo.cs
+D:\Aman Personal\InterviewPractice\GenericRepositoryLibrary\GenericRepositoryLibrary\obj\Release\net8.0\GenericRepositoryLibrary.csproj.CoreCompileInputs.cache
+D:\Aman Personal\InterviewPractice\GenericRepositoryLibrary\GenericRepositoryLibrary\obj\Release\net8.0\GenericRepositoryLibrary.dll
+D:\Aman Personal\InterviewPractice\GenericRepositoryLibrary\GenericRepositoryLibrary\obj\Release\net8.0\refint\GenericRepositoryLibrary.dll
+D:\Aman Personal\InterviewPractice\GenericRepositoryLibrary\GenericRepositoryLibrary\obj\Release\net8.0\GenericRepositoryLibrary.pdb
+D:\Aman Personal\InterviewPractice\GenericRepositoryLibrary\GenericRepositoryLibrary\obj\Release\net8.0\GenericRepositoryLibrary.genruntimeconfig.cache
+D:\Aman Personal\InterviewPractice\GenericRepositoryLibrary\GenericRepositoryLibrary\obj\Release\net8.0\ref\GenericRepositoryLibrary.dll
